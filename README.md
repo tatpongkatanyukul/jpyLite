@@ -1,5 +1,7 @@
 * https://tatpongkatanyukul.github.io/jpyLite
 
+  * To fetch latest server content, on client session, go to ```Help```, then click ```Clear browser data```.
+
 ----
 
 # JupyterLite Demo
